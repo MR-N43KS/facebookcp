@@ -9,7 +9,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 2
 echo
-toilet -f big -F gay Irfak Gans-_
+toilet -f big -F gay MrN43KS-_
 echo
 echo
 echo $red"Selamat Datang Di FB CHECKPOINT REMOVER V.0.1 Beta"
