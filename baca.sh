@@ -13,7 +13,7 @@ toilet -f big -F gay MrN43KS-_
 echo
 echo
 echo $red"Selamat Datang Di FB CHECKPOINT REMOVER V.0.1 Beta"
-echo $yellow"Pembuat:Rizz Script-_"
+echo $yellow"Pembuat:Irfak Gans-_"
 echo $yellow"Info:Mau Lebih Mudah ? Kami Open Bengkel Sesi cek dikomentar"
 echo $green"expired:15 Nov 2020"
 sleep 2
